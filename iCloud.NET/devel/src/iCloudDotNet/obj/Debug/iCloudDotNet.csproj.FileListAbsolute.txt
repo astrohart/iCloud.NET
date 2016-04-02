@@ -1,0 +1,7 @@
+C:\Users\Brian Hart\Dropbox\Downloads\iCloud.NET\iCloud.NET\devel\src\iCloudDotNet\obj\Debug\iCloudDotNet.csprojResolveAssemblyReference.cache
+C:\Users\Brian Hart\Dropbox\Downloads\iCloud.NET\iCloud.NET\devel\src\iCloudDotNet\obj\Debug\AppleICloudDotNet.Properties.Resources.resources
+C:\Users\Brian Hart\Dropbox\Downloads\iCloud.NET\iCloud.NET\devel\src\iCloudDotNet\obj\Debug\iCloudDotNet.csproj.GenerateResource.Cache
+C:\Users\Brian Hart\Dropbox\Downloads\iCloud.NET\iCloud.NET\devel\bin\Debug\AppleICloudDotNet.dll
+C:\Users\Brian Hart\Dropbox\Downloads\iCloud.NET\iCloud.NET\devel\bin\Debug\AppleICloudDotNet.pdb
+C:\Users\Brian Hart\Dropbox\Downloads\iCloud.NET\iCloud.NET\devel\src\iCloudDotNet\obj\Debug\AppleICloudDotNet.dll
+C:\Users\Brian Hart\Dropbox\Downloads\iCloud.NET\iCloud.NET\devel\src\iCloudDotNet\obj\Debug\AppleICloudDotNet.pdb

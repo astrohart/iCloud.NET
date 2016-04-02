@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AppleICloudDotNet.PropertyLists.ApplePropertyListSerializer" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="AppleICloudDotNet.PropertyLists.ApplePropertyListSerializer.ValueWriter" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PropertyLists\ApplePropertyListSerializer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="AppleICloudDotNet.PropertyLists.ApplePropertyListSerializer.ValueReader" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PropertyLists\ApplePropertyListSerializer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Class Name="AppleICloudDotNet.PropertyLists.ApplePropertyListSerializer.TypeCompatibilityComparer" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PropertyLists\ApplePropertyListSerializer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>CQgAAAABA0ABABQAAiEAAAYCASF0AQQAAAAAgUQgAAA=</HashCode>
+      <FileName>PropertyLists\ApplePropertyListSerializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppleICloudDotNet.PropertyLists.ApplePropertyListSerializerException" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PropertyLists\Exceptions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppleICloudDotNet.AppleICloudClient" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAiCAAAAQAQAAAAAEAAAEAAAAAAAQAAAAAAAAABA=</HashCode>
+      <FileName>AppleICloudClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppleICloudDotNet.AppleICloudClientException" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AppleICloudClientException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppleICloudDotNet.ReflectionUtilities" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>ReflectionUtilities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppleICloudDotNet.XmlUtilities" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>XmlUtilities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

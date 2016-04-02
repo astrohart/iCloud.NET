@@ -1,0 +1,7 @@
+C:\Users\Brian Hart\Dropbox\Downloads\iCloud.NET\iCloud.NET\devel\src\iCloudDotNet.Tests\obj\Debug\iCloudDotNet.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Brian Hart\Dropbox\Downloads\iCloud.NET\iCloud.NET\devel\bin\Debug\tests\Data\PropertyLists\sample1.plist
+C:\Users\Brian Hart\Dropbox\Downloads\iCloud.NET\iCloud.NET\devel\bin\Debug\tests\Data\PropertyLists\sample0.plist
+C:\Users\Brian Hart\Dropbox\Downloads\iCloud.NET\iCloud.NET\devel\bin\Debug\tests\AppleICloudDotNet.Tests.dll
+C:\Users\Brian Hart\Dropbox\Downloads\iCloud.NET\iCloud.NET\devel\bin\Debug\tests\AppleICloudDotNet.Tests.pdb
+C:\Users\Brian Hart\Dropbox\Downloads\iCloud.NET\iCloud.NET\devel\src\iCloudDotNet.Tests\obj\Debug\AppleICloudDotNet.Tests.dll
+C:\Users\Brian Hart\Dropbox\Downloads\iCloud.NET\iCloud.NET\devel\src\iCloudDotNet.Tests\obj\Debug\AppleICloudDotNet.Tests.pdb
